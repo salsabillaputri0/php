@@ -1,0 +1,35 @@
+body{
+    background-image: url(stickersz6.jpg);
+    position: cover;
+}
+.box{
+    margin: 150px auto;
+    height: 300px;
+    width: 600px;
+}
+.atas{
+    height: 50px;
+    width: 600px;
+    background-color: gray;
+}
+h1{
+    text-align: center;
+}
+.kiri{
+    height: 250px;
+    width: 200px;
+    float: left;
+}
+.gambar{
+    background-image: url(caca2\ \(1\).jpeg);
+    height: 230px;
+    width: 200px;
+    margin-top: 10px;
+     
+}
+.kanan{
+    width:400px;
+    height: 250px;
+    background-color: lightblue;
+    float: right;
+}
